@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\entity\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\entity\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\entity\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\entity\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\entity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\entity\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\entity\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|c:\\users\\mberkani\\source\\repos\\formation_e-challenge_asp-mvc\\formation_e-challenge_asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7DCF48D-A4D9-4800-8ADB-3C65E28E8D01}|Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj|solutionrelative:formation_e-challenge_asp-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Entity\\Teacher.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Teacher.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Entity\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:35:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Subject.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Entity\\Subject.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Subject.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Entity\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:35:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Student.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:35:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Entity\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\SchoolContext.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Entity\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:35:41.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Person.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Entity\\Person.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Person.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Entity\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:35:37.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Entity\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Enrollment.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Entity\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:35:33.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Class.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Entity\\Class.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Entity\\Class.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Entity\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:35:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Program.cs",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:23:35.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Formation_E-Challenge_ASP-MVC",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T11:27:41.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Formation_E-Challenge_ASP-MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\mberkani\\source\\repos\\Formation_E-Challenge_ASP-MVC\\Formation_E-Challenge_ASP-MVC\\appsettings.json",
+              "RelativeToolTip": "Formation_E-Challenge_ASP-MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T11:14:32.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
